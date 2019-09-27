@@ -1,0 +1,6 @@
+pyyaml
+pyzmq
+locustio
+requests
+opencv-python
+
